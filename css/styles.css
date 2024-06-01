@@ -120,6 +120,11 @@
     max-width: 1280px;
     margin: 0 auto;
     padding: 82px 32px;
+    background-image: url(/img/background.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 526px 408px;
   }
 
   .benefits-head {
